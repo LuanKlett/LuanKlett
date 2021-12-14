@@ -11,7 +11,7 @@ Soy amante del diseño web y me gusta mucho trabajar en el Front.
 Sin embargo puedo desenvolverme en el Back con la misma pasión.
 </p>
 
-## Proyectos🌈
+## Proyectos 🌈
 <a href="https://github.com/LuanKlett/Dogs-PI">Dogs App</a>
 <p>
 <img width="45%" src="./DogsApp1.png">
@@ -20,11 +20,11 @@ Sin embargo puedo desenvolverme en el Back con la misma pasión.
 <img width="45%" src="./DogsApp4.png">
 </p>
 
-## Contacto📮
+## Contacto 📮
 </br>
-luanklett@gmail.com💌
+luanklett@gmail.com 💌
 </br>
-<a href="https://www.linkedin.com/in/pablo-daniel-klett/">LinkedIn</a><img width="1.5%" src="./linkedin.png">
+<a href="https://www.linkedin.com/in/pablo-daniel-klett/">LinkedIn</a><span> </span><img width="1.5%" src="./linkedin.png">
 
 
 <!--

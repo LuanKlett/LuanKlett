@@ -14,10 +14,10 @@ Sin embargo puedo desenvolverme en el Back con la misma pasión.
 ## Proyectos🌈
 <a href="https://github.com/LuanKlett/Dogs-PI">Dogs App</a>
 <p>
-<img width="40%" src="./Dogs_App1.png">
-<img width="40%" src="./Dogs_App2.png">
-<img width="40%" src="./Dogs_App3.png">
-<img width="40%" src="./Dogs_App4.png">
+<img width="40%" src="./DogsApp1.png">
+<img width="40%" src="./DogsApp2.png">
+<img width="40%" src="./DogsApp3.png">
+<img width="40%" src="./DogsApp4.png">
 </p>
 
 

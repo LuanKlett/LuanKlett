@@ -20,7 +20,7 @@ Sin embargo puedo desenvolverme en el Back con la misma pasión.
 <img width="45%" src="./DogsApp4.png">
 </p>
 
-##Contacto
+## Contacto📮
 </br>
 <span>luanklett@gmail.com💌<span>
 </br>

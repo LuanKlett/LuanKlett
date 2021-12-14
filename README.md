@@ -24,7 +24,7 @@ Sin embargo puedo desenvolverme en el Back con la misma pasión.
 </br>
 <span>💌luanklett@gmail.com<span>
 </br>
-<img width="1%" src="./linkedin.png"><a href="https://www.linkedin.com/in/pablo-daniel-klett/">LinkedIn</a>
+<img width="1.5%" src="./linkedin.png"><a href="https://www.linkedin.com/in/pablo-daniel-klett/">LinkedIn</a>
 
 
 <!--

@@ -14,11 +14,15 @@ Sin embargo puedo desenvolverme en el Back con la misma pasión.
 ## Proyectos🌈
 <a href="https://github.com/LuanKlett/Dogs-PI">Dogs App</a>
 <p>
-<img width="40%" src="./DogsApp1.png">
-<img width="40%" src="./DogsApp2.png">
-<img width="40%" src="./DogsApp3.png">
-<img width="40%" src="./DogsApp4.png">
+<img width="50%" src="./DogsApp1.png">
+<img width="50%" src="./DogsApp2.png">
+<img width="50%" src="./DogsApp3.png">
+<img width="50%" src="./DogsApp4.png">
 </p>
+
+##Contacto
+💌luanklett@gmail.com
+<img width="10%" src="./linkedin.png"><a href="https://www.linkedin.com/in/pablo-daniel-klett/">LinkedIn</a>
 
 
 <!--

@@ -1,4 +1,9 @@
-### Hi there 👋
+<img src="./banner.gif" />
+
+𝗛𝗼𝗹𝗶𝘀, me llamo Luan! 👋
+
+
+
 
 <!--
 **LuanKlett/LuanKlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 <img src="./banner.gif" />
 
-𝗛𝗼𝗹𝗶𝘀, me llamo Luan! 👋
+𝗛𝗼𝗹a! Me llamo Luan 👋
 
 
 

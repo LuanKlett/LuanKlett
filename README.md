@@ -1,6 +1,13 @@
 <img src="./banner.gif" />
 
-𝗛𝗼𝗹a! Me llamo Luan 👋
+<p>
+Hola! Me llamo Luan 👋
+
+Soy Full Stack Developer y Pastelero 😊
+
+Soy amante del diseño web y me gusta mucho trabajar en el Front.
+Sin embargo puedo desenvolverme en el Back con la misma pasión.
+</p>
 
 
 

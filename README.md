@@ -27,6 +27,7 @@ luanklett@gmail.com💌
 <a href="https://www.linkedin.com/in/luan-klett/">LinkedIn<img width="1.5%" src="./linkedin.png"></a>
 
 <br/>
+<br/>
 
 ![Luan' Stats](https://github-readme-stats.vercel.app/api?username=luanklett&show_icons=true&theme=buefy)
 

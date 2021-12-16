@@ -26,7 +26,7 @@ luanklett@gmail.com💌
 </br>
 <a href="https://www.linkedin.com/in/luan-klett/">LinkedIn<img width="1.5%" src="./linkedin.png"></a>
 
-
+![Luan' Stats](https://github-readme-stats.vercel.app/api?username=brianbacca&show_icons=true&theme=buefy)
 <!--
 **LuanKlett/LuanKlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
